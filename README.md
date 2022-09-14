@@ -5,3 +5,6 @@ To download the pack
 * click on green color code button
 * click on download .zip option 
 * after download is complete unzip the file and place the folder in your resourcepacks folder
+
+## ItemsAdder Pack
+Download the zip folder from [HERE](https://drive.google.com/file/d/1w2aj3X-FaPlRGCup6rxjV3P_Jh1wtrax/view?usp=sharing), if you use resource packs from [ItemsAdder](https://www.spigotmc.org/resources/73355/). Thanks to Istarengwa from discord for making it
