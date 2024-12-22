@@ -1,0 +1,19 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "entries": [
+      {
+        "threshold": 102,
+        "model": {
+          "type": "model",
+          "model": "item/trowel"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "model",
+      "model": "item/iron_hoe"
+    }
+  }
+}
