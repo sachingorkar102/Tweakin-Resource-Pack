@@ -1,0 +1,33 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "entries": [
+      {
+        "threshold": 100,
+        "model": {
+          "type": "model",
+          "model": "item/rotation_wrench"
+        }
+      },
+      {
+        "threshold": 103,
+        "model": {
+          "type": "model",
+          "model": "item/armorstand_wand"
+        }
+      },
+      {
+        "threshold": 104,
+        "model": {
+          "type": "model",
+          "model": "item/crafting_table_on_stick"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "model",
+      "model": "item/stick"
+    }
+  }
+}

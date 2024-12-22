@@ -1,0 +1,26 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "entries": [
+      {
+        "threshold": 103,
+        "model": {
+          "type": "model",
+          "model": "item/slime_in_a_bucket"
+        }
+      },
+      {
+        "threshold": 104,
+        "model": {
+          "type": "model",
+          "model": "item/slime_in_a_bucket_excited"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "model",
+      "model": "item/slime_ball"
+    }
+  }
+}

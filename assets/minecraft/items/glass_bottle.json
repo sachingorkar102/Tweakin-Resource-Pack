@@ -1,0 +1,19 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "entries": [
+      {
+        "threshold": 101,
+        "model": {
+          "type": "model",
+          "model": "item/bottled_cloud"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "model",
+      "model": "item/glass_bottle"
+    }
+  }
+}
