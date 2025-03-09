@@ -1,0 +1,11 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/stick"
+	},
+	"overrides": [
+		{ "predicate": {"custom_model_data": 100}, "model": "item/rotation_wrench" },
+		{ "predicate": {"custom_model_data": 103}, "model": "item/armorstand_wand" },
+		{ "predicate": {"custom_model_data": 104}, "model": "item/crafting_table_on_stick" }
+	]
+}

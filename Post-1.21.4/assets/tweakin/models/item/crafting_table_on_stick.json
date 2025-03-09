@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "tweakin:item/crafting_table_on_stick"
+    }
+
+}
